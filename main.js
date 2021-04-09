@@ -17,7 +17,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/src/assets/about-us.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("assets/about-us.png");
 
 /***/ }),
 /* 3 */
@@ -27,7 +27,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/src/assets/43688.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("assets/43688.png");
 
 /***/ }),
 /* 4 */
@@ -37,7 +37,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/src/assets/43690.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("assets/43690.png");
 
 /***/ }),
 /* 5 */
@@ -47,7 +47,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/src/assets/43698.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("assets/43698.png");
 
 /***/ }),
 /* 6 */
@@ -57,7 +57,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/src/assets/arrow_carrot-left.svg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("assets/arrow_carrot-left.svg");
 
 /***/ }),
 /* 7 */
@@ -67,7 +67,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/src/assets/arrow_carrot-right.svg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("assets/arrow_carrot-right.svg");
 
 /***/ }),
 /* 8 */
@@ -77,7 +77,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("/src/assets/header1.jpeg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("assets/header1.jpeg");
 
 /***/ })
 /******/ 	]);

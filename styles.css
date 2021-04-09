@@ -13,7 +13,7 @@ body {
   position: fixed; }
 
 header::before {
-  background-image: url(/src/assets/header1.jpeg);
+  background-image: url(assets/header1.jpeg);
   background-size: cover;
   position: absolute;
   z-index: -1;
